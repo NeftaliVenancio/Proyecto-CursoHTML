@@ -1,0 +1,97 @@
+body{
+    background-color: black;
+}
+
+#welcome{
+
+        position: relative;
+		margin: 0;
+		
+        background-image:  url("images/header.jpg");
+		background-size:cover;
+		background-position:center;
+		background-repeat:no-repeat;
+
+
+		padding: 15em;
+		text-align: center;
+
+
+}
+
+header{
+    padding-bottom: 4em;
+}
+
+h1,h2{
+    color: white;
+}
+
+#welcome h1{
+    font-size: 4em;
+}
+#welcome h2{
+    font-size: 2em;
+}
+
+li{
+    list-style: none;
+    text-align: center;
+    padding: 0%;
+    font-size: 1.5em;
+}
+
+ul{
+    padding: 0%;
+}
+
+#Instalaciones{
+    position: relative;
+    float: left;
+    margin: 0;
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    padding: 0;
+    text-align: center;
+}
+
+#Instalaciones p{
+    color: white;
+    position: relative;
+}
+
+#Instalaciones img{
+    max-width: 100%;
+    height: auto;
+}
+
+.l1{
+    float: left;
+    width: 20%;
+}
+
+.l2{
+    width: 20%;
+}
+
+
+a{
+    color: white;
+    text-decoration: none;
+}
+a:visited {
+
+}
+
+a:focus {
+    color: #EDEDED;
+}
+
+a:hover {
+    color: #DA0037;
+}
+
+a:active {
+
+}
